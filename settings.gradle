@@ -1,0 +1,2 @@
+rootProject.name='test_ndkr21'
+include ':app'
